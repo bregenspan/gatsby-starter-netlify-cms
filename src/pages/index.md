@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Barbara Regenspan
+image: /img/bernard-hermant-qtpc0vj4yoe-unsplash.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: "Auto-ethnographer, emerita\_educational\_studies professor seeks time-limited visiting appointment to use my skills as existentialist philosopher, poet, activist, curriculum theorist, writing and creative writing teacher, and social justice-focused teacher educator with special expertise in Marxism, psychoanalysis and feminisms"
 mainpitch:
   title: Why Kaldi
   description: >
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
